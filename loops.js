@@ -13,5 +13,5 @@ function whileLoop(n) {
   var counter = n;
   while(counter>0) {
     counter--;
-  }
+  } return "done";
 }
